@@ -16,8 +16,8 @@ The following tools, frameworks, and modules are required for this tutorial:
 ## Setup
   1. Update Angular CLI and Create Angular 5 Application
   ```
-    sudo npm install -g @angular/cli (Linux/MAC)
-    npm install -g @angular/cli (Windows)
+    sudo npm install -g @angular/cli //(Linux/MAC)
+    npm install -g @angular/cli //(Windows)
   ```
   2.Now, type this command to create new Angular 2 application.
   ```
